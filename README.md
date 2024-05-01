@@ -20,11 +20,9 @@ Print the variable 'X'
 ## Program:
 (i) To find the L and U matrix
 ```
-/*
 Program to find the L and U matrix.
 Developed by: Boopathy S 
 RegisterNumber: 2305003002
-*/
 
 import numpy as np
 from scipy.linalg import lu
@@ -33,13 +31,12 @@ P,L,U = lu(A)
 print(L)
 print(U)
 ```
-```
+
 (ii) To find the LU Decomposition of a matrix
-/*
+```
 Program to find the LU Decomposition of a matrix.
 Developed by: Boopathy S 
 RegisterNumber: 2305003002 
-*/
 
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
