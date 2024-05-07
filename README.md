@@ -14,7 +14,8 @@ Define the package as scipy.linalg import lu.
 Step2:
 Get input from user and print L and U matrix by 'print' .
 Step3:
-Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the variable as 'X' include the package in that variable.
+Define a package as "from scipy.linalg import lu_factor, lu_solve" and create the variable as 'X'
+include the package in that variable.
 Step4: 
 Print the variable 'X'
 ```
